@@ -31,3 +31,6 @@ Host github
 
 ##### Clone repo
 ```git clone <repo url>```
+
+##### When using using pki or card on linux
+```sudo cp ~/.ssh/<public key>.pub /etc/pki/ca-trust/source/anchors/``` 
