@@ -1,7 +1,7 @@
 # Developer Setup
 ### Set up git
 ##### Create ssh key for git
-```ssh-keygen -t rsa -b 4096 -C "ctmillaz@gmail.com"```
+```ssh-keygen -t rsa -b 4096 -C "<your_email>"```
 
 ##### Add ssh key to git site ssh key location
 ##### Add ssh key to ssh config file
