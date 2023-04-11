@@ -24,7 +24,7 @@ Host github
 ##### Put this in credentials file
 ```https://<username>:<token>@<git site>```
 
-```https://ctmillaz:<token>@https://github.com/```
+```https://<your_user_name>:<token>@https://github.com/```
 
 ##### Cache git credentials
 ```git config --global credentials.helper 'store --file ~/.git-credentials'```
